@@ -5,7 +5,7 @@ accounts:
   message: "Hello to EB related to QA APIs"
   contactDetails:
     name: "Ana QA"
-    email: "2021d4d20799f35b69dfdbe0ef580f9c083e327f9ed494f3b778489e80a63558d501503f8d5ebbd3ccefb4d9efef057b"
+    email: "{cipher}2021d4d20799f35b69dfdbe0ef580f9c083e327f9ed494f3b778489e80a63558d501503f8d5ebbd3ccefb4d9efef057b"
   onCallSupport:
     -(555) 112-234
     -(555) 589-123
