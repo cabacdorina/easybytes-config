@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hello to ALL related to PROD APIs"
+  message: "Hello to ALL 2 related to PROD APIs"
   contactDetails:
     name: "Ana PROD"
     email: "test-prod@yahoo.com"
