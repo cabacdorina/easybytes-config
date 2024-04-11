@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello to EB related to PROD APIs"
+  message: "Hello to ALL PEOPLE related to PROD APIs"
   contactDetails:
     name: "Ana PROD"
     email: "test-prod@yahoo.com"
