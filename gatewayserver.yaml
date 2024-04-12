@@ -1,0 +1,11 @@
+server:
+  port: 8072
+
+eureka:
+  instance: #other micro when will try to connect with this micro, they will connect by IP address given by eureka
+    preferIpAddress: true #my gatewayserver will register to eureka server using IP address, but not with host name, because in our case we don't have a DNS for mapping
+  client:
+    fetchRegistry: true #gatewayserver will try to fetch registry details when it is trying to connect with other micro
+    registerWithEureka: true #gatewayserver will register to eureka server
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka
